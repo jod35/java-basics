@@ -2,9 +2,11 @@ package com.company;
 
 public class Variables {
     public static void main(String[] args) {
-        int age = 35;
-        int myage =age;
-        System.out.println(myage);
+        byte age = 30;
+        long viewCount = 32_635_267_537L;
+        float price = 10.34234F;
+        char letter = 'A';
+        Boolean eligible = false;
     }
 
 }
